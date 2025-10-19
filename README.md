@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sebastian-reyes/sebastian-reyes/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/sebastian-reyes/sebastian-reyes/output/github-contribution-grid-snake-dark.svg)
 <!--
 **sebastian-reyes/sebastian-reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
